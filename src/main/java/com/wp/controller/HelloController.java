@@ -1,4 +1,4 @@
-package com.how2java.springboot.web;
+package com.wp.controller;
 import java.text.DateFormat;
 import java.util.Date;
 

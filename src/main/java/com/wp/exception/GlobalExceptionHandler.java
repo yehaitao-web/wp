@@ -1,4 +1,4 @@
-package com.how2java.springboot.exception;
+package com.wp.exception;
 
 
 import javax.servlet.http.HttpServletRequest;

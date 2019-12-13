@@ -1,4 +1,4 @@
-package com.how2java.springboot.pojo;
+package com.wp.pojo;
 
 public class Category {
  
